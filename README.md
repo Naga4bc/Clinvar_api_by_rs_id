@@ -1,4 +1,4 @@
-# Clinvar_api_by_rs_id
+# Clinvar_api_by_rsID
 
 **INPUT csv file generated from the Nirvana json2csv or you can use any csv file with header name dbsnp**
 
